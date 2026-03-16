@@ -88,7 +88,7 @@ pip install -r requirements.txt
 ### 4. Execute os testes
 
 ```bash
-python user_system.py
+python LoginSystem.py
 ```
 
 ## 📖 Documentação Detalhada
@@ -458,7 +458,7 @@ Ao usar em produção, considere adicionar:
 ### Executar Testes Integrados
 
 ```bash
-python user_system.py
+python LoginSystem.py
 ```
 
 ### Exemplo de Teste Unitário
